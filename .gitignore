@@ -1,0 +1,8 @@
+backend/.venv/ 
+frontend/node_modules/ 
+backend/storage/ 
+*.mp4 
+__pycache__/ 
+*.pyc 
+backend/.env
+backend/.env
