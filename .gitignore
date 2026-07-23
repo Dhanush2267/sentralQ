@@ -5,4 +5,3 @@ backend/storage/
 __pycache__/ 
 *.pyc 
 backend/.env
-backend/.env
