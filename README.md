@@ -10,6 +10,11 @@ SentralQ is an enterprise-grade Surveillance Intelligence Platform designed for 
 - **Analytics & Alerts**: Real-time dashboards, historical metrics, and webhook alerts.
 
 ---
+TEAM MEMBERS:
+Praveen J
+Dhanush M
+Angesh Karthik S
+
 
 ## Workspace Structure
 
